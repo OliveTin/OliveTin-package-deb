@@ -1,0 +1,11 @@
+Source: olivetin
+Maintainer: James Read <contact@jread.com>
+Section: misc
+Priority: optional
+
+Package: olivetin
+Section: misc
+Priority: optional
+Architecture: all
+Description: OliveTin is a web interface for running Linux shell commands. 
+  OliveTin is a web interface for running Linux shell commands. 
